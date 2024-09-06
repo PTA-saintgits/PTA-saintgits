@@ -1,4 +1,19 @@
-## Hi there 👋
+## Parent Teacher Association 👋
+
+### About me
+
+**Website:** <www.saintgits.org>
+
+
+The association of parents, teachers in Saintgits college of Engineering.
+
+## Workshop attended
+
+- Faculty Development Programme- *Instructional Design for Python Programming*
+
+### Mathematics
+
+$x^2-\vec{a}+\frac{\partial^2 y}{\partial x^2}=f(x,y\theta)$
 
 <!--
 **PTA-saintgits/PTA-saintgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
